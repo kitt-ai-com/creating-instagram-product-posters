@@ -1,0 +1,6 @@
+interface:
+  display_name: "Instagram Product Poster"
+  short_description: "제품 사진으로 포스터형 인스타그램 피드를 제작합니다"
+  default_prompt: "Use $creating-instagram-product-posters with my attached product image and brief. 인스타 피드 시작하자."
+policy:
+  allow_implicit_invocation: true
